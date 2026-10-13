@@ -38,17 +38,20 @@
 ## 🏅 Insignias
 
 <p>
+<a href="https://holopin.io/@pabloreboredo16">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+  </a>
   <a href="https://holopin.io/@pabloreboredo16">
-    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge" width="100" style="margin: 5px;" />
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
   </a>
   <a href="https://holopin.io/@pabloreboredo16">
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
   </a>
   <a href="https://holopin.io/@pabloreboredo16">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge" width="100" style="margin: 5px;" />
   </a>
   <a href="https://holopin.io/@pabloreboredo16">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge" width="100" style="margin: 5px;" />
   </a>
 </p>
 
