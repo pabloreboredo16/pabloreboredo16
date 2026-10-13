@@ -6,12 +6,6 @@
 
 ---
 
-## 🏅 Insignias
-
-[![Insignias de Holopin](https://holopin.me/pabloreboredo16)](https://holopin.io/@pabloreboredo16)
-
----
-
 ## 👋 Sobre mí
 
 💻 Apasionado por la tecnología y el software.
@@ -38,6 +32,25 @@
 ## 📊 Estadísticas de GitHub
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloreboredo16&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+
+---
+
+## 🏅 Insignias
+
+<p>
+  <a href="https://holopin.io/@pabloreboredo16">
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge" width="100" style="margin: 5px;" />
+  </a>
+  <a href="https://holopin.io/@pabloreboredo16">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+  </a>
+  <a href="https://holopin.io/@pabloreboredo16">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+  </a>
+  <a href="https://holopin.io/@pabloreboredo16">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" style="margin: 5px;" />
+  </a>
+</p>
 
 ---
 
