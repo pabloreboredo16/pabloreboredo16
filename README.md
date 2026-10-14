@@ -1,16 +1,10 @@
 # Pablo Reboredo Fernández 🧑‍💻
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+de+GitHub" alt="Texto animado" />
 </p>
-
----
-
-## 👋 Sobre mí
-
-💻 Apasionado por la tecnología y el software.
-
-🚀 Desarrollo de proyectos y resolución de problemas.
+-->
 
 ---
 
@@ -64,4 +58,4 @@
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! Echa un vistazo a mis repositorios.
+⭐ Echa un vistazo a mis repositorios.
