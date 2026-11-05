@@ -65,7 +65,7 @@ Apasionado por construir, escalar y resolver proyectos.
 Contacto: pabloreboredo16@gmail.com
 
 [![Mi CV](https://img.shields.io/badge/Mi_CV-FF7F00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloreboredo16.github.io/mi-cv/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloreboredo16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pabloreboredo16@gmail.com&su=Contacto%20desde%20GitHub)
 
 ---
 
